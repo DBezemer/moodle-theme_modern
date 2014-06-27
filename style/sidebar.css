@@ -1,0 +1,10 @@
+#sidebar-wrapper {
+  left: 0px;
+  top: 55px;
+  padding-bottom: 25px;
+  background: [[setting:headingcolor]];
+  position: fixed;
+  height: 100%;
+  overflow-y: auto;
+  z-index: 1000;
+}
